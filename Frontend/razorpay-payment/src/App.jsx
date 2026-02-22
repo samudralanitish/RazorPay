@@ -46,7 +46,7 @@ function App() {
     const { amount, id, currency} = data.order
     
     const options = {
-      key: "rzp_test_SJ4wRHeHIt4zGq",
+      key: "USER YOUR KEY_ID HERE",
       amount: amount,  
       orderId: id,
       currency: currency,
